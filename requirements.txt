@@ -4,3 +4,4 @@ google-auth-httplib2==0.2.0
 google-api-python-client==2.108.0
 fastapi==0.109.0
 uvicorn==0.27.0
+python-multipart==0.0.6
